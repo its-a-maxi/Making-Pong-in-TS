@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>Pong Clone in ts and html5</h1>
+  <h1>PONG Clone in ts and html5</h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
