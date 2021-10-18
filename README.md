@@ -25,8 +25,6 @@ Practicing ts making a PONG clone, this code will come in handy for our next pro
 <!-- GETTING STARTED -->
 ## 🏃 Quick Start
 
-### Installation
-
 * Clone the repo
   ```sh
   git clone https://github.com/its-a-maxi/Making-Pong-in-TS.git
