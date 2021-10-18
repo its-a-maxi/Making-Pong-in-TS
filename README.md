@@ -48,7 +48,7 @@ Practicing ts making a PONG clone, this code will come in handy for our next pro
 
 Maximo Monroy - monroy.vds@gmail.com
 
-Project Link: [https://github.com/its-a-maxi/Making-Pong-in-TS.git](https://github.com/its-a-maxi/Making-Pong-in-TS.git)
+Project Link: [https://github.com/its-a-maxi/Making-Pong-in-TS](https://github.com/its-a-maxi/Making-Pong-in-TS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
