@@ -9,12 +9,11 @@
 <br />
 <div align="center">
   <h1>PONG Clone in ts and html5</h1>
+  <img src="product.gif" />
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## ℹ️ About The Project
-
-![](product.gif)
 
 Practicing ts making a PONG clone, this code will come in handy for our next project, _ft_transcendece_.
 
