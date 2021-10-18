@@ -57,7 +57,7 @@ Project Link: [https://github.com/its-a-maxi/Making-Pong-in-TS](https://github.c
 <!-- ACKNOWLEDGMENTS -->
 ## 🥇 Acknowledgments
 
-Project made following _thecodingpie_ tutorial.
+Project made following _thecodingpie_ tutorial and adapting it to typescript.
 * [Learn to Code Ping Pong Game](https://thecodingpie.com/post/learn-to-code-ping-pong-game-using-javascript-and-html5)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
