@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## ℹ️ About The Project
 
-Practicing ts making a PONG clone, this code will come in handy for our next project, _ft_transcendece_.
+Practicing TS making a PONG clone, this code will come in handy for our next project, _ft_transcendece_.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
